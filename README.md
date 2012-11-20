@@ -1,6 +1,5 @@
 Cloudeo Sample App
 ==================
 
-Sample application providing showcase for Cloudeo Plug-In API.
+This repository was moved to: https://github.com/addlive/addlive_sample_app and won't be maintained any longer.
 
-Read more on http://www.cloudeo.tv
